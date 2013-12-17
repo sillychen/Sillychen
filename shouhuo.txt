@@ -1,0 +1,18 @@
+github收获
+                                          陈兆一
+                                      2012210032
+学习中遇到问题：
+未找到github网站的上传方式，经百度后仍不了解，最后在官方网站上查明
+网站为全英文，理解较为困难
+收获：
+了解了github的使用方式，以及上传方式
+初步熟悉了github的作用
+上传文件方式如下：
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sillychen/Sillychen.git
+git push -u origin master
+
+补充，因未能找到文件的3个版本，故用3个小的python程序做为替代
